@@ -202,7 +202,7 @@ Seek for others in the team to become greater than you.
 
 Ask for help to share responsibility and foster leadership.
 
-Reading list:
+## Reading list
 
 * Managing humans
 * Carrots and sticks
