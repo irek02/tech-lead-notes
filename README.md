@@ -1,3 +1,17 @@
+# Tech Lead notes
+
+## Overview
+
+Definition:
+
+Resposibilities:
+
+Required skills:
+
+Pros:
+
+Cons:
+
 ## NOVICES
 
 More about the future state of the system. How adding features today will affect the abliity of adding feature tomorrow. The original developer is not the only person who need to understand the solution, it's your job to consider whether the entire team can understand it and shape it.
