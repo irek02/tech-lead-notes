@@ -236,3 +236,4 @@ Ask for help to share responsibility and foster leadership.
 * Behind closed doors
 * General principles of system design
 * Anyting by Weinberg
+* https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Addison-Wesley-ebook/dp/B007MQLL4E
