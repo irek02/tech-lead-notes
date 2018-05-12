@@ -4,87 +4,79 @@
 
 Definition:
 
-Resposibilities:
-
 Required skills:
 
 Pros:
 
 Cons:
 
+## What desribes a tech lead
+
 ## NOVICES
 
-More about the future state of the system. How adding features today will affect the abliity of adding feature tomorrow. The original developer is not the only person who need to understand the solution, it's your job to consider whether the entire team can understand it and shape it.
+Business / goals
 
-Enable everyone to contribute. Avoid rewrites due to people working different ways. Manage debt to make easier to add code. Ensure the code addresses business needs. Maximize the efforts of the entire group, not just an individual.
+* Ensure the code addresses business needs.
+* Liaise with the BA (bis analyst) to ensure the team is aligned with the product vision and business direction.
+* Align people towards the goal. Otherwise it is just a group of people, not a team.
+* Evaluate effort/time investment towards business vision.
 
-Focus on the overall vision.
-Understand the big picture.
-Consider fearutes impact on the overall system.
-Consider how the application fits into the whole ecosystem.
-Look at the consequences that a choice has on others and future work/rework.
-Evaluate decisions with a long-term view.
-Be concerned if a choice makes it difficult to change the system tomorrow. Make others aware of it.
-Understand requirements and constraints, design high-level architecture, then evolve it over time.
-Understand the difference between short-term and long-term decisions.
-Steer technical vision and arch changes
-Step back to see if the project stil heading in the right dierection.
+Big picture / System thinking / Future state / Vision / Architecture / Matching requirements / Non-functional reqs
 
-Facilitate tech discussions.
-Lead in good design and architecture.
+* Focus on the overall vision.
+* Understand the big picture.
+* Consider how the application fits into the whole ecosystem.
+* Consider fearutes impact on the overall system. Does it make it hard to add features tomorrow?
+* Look at the consequences that a choice has on others and future work/rework.
+* Evaluate decisions with a long-term view.
+* Be concerned if a choice makes it difficult to change the system tomorrow. Make others aware of it.
+* Understand requirements and constraints, design high-level architecture, then evolve it over time.
+* Understand the difference between short-term and long-term decisions.
+* Steer technical vision and arch changes
+* Step back to see if the project stil heading in the right dierection.
 
-Be not only goal oriented but people origented.
+Motivate / Lead / Enable success
 
-Liaise with the BA (bis analyst) to ensure the team is aligned with the product vision and business direction.
+* Facilitate tech discussions.
+* Lead in good design and architecture.
+* Attend domain modeling seesions
+* Motivate technical excellense.
+* Match interest and opportunities by learning about each team member.
+* Build relationships and keep an eye on the relationships within the team.
+* Make the team feel successful.
+* Bring positive energy. Stir things up to ask questions, make everyone have a fair say.
+* Enable everyone to contribute.
+* Maximize the efforts of the entire group, not just an individual.
+* Step in to make a decision if the team is unable to come to an aggreement.
+* They lead where the team cannot lead and facilitate where the team does not need the leader.
+* Many problems of self-organizing teams can be solved by having a leader.
+* Help the team to figure out what work not to do.
+* Both goal-oriented and people-oriented.
+* Keeping an eye on each developer and what's coming up in the team.
+* Mentor, better communicate ideas, make the most of each developer
 
-Motivate technical excellense.
+Delegation / Less coding
 
-What is valuable effort/Time investment towards business vision.
+* They spend less time coding. Often, someone else has to finish their work due to distractions.
+* Will no longer the best coder because you do not code as much.
+* Not responsible for being the best coder but for making sure everyone does their best.
+* Avoid being the single point of contact for technical quwstions.
+* Whenever possible - delegate.
+* Delegating and communication is essential.
+* Delegated decisions are satisfiable more often than you think.
 
-Keeping an eye on each developer and what's coming up in the team.
+Other
 
-Attend domain modeling seesions
+* They often concerned more about code maintainability than saving few CPU/Memory resources with tricky optimizations.
+* Ensure that others can understand the solution when reviewing code.
+* Manage debt to make easier to add code.
 
-Mentor, better communicate ideas, make the most of each developer
+* They consider discussions without outcome to be useless.
+* Prioritizatoin and decision making is hard so do it when you're fresh in the morning.
 
-Less time for coding. Often, someone else has to finish your work.
+* If you are constantly in meetings, your team is missing the tech lead. If you are in code, business is missing the tech lead.
 
-Avoid being the single point of contact for technical quwstions.
-
-Align people towards the goal. Otherwise it is just a group of people, not a team.
-
-Match interest and opportunities by learning about each team member.
-
-Often, it is more effective ot pair in the beginning and let them finish the task.
-
-Whenever possible - delegate.
-Delegating and communication is essential.
-Delegated decisions are satisfiable more often than you think.
-
-CPU/Mem is cheap. Complex code is costly to maintain.
-
-Discussions without an outcome are useless.
-
-Step in to make a decision if the team is unable to come to an aggreement.
-
-Build relationships and keep an eye on the relationships within the team.
-
-Lead where the team cannot lead and facilitate where the team can lead.
-Many problems of self-organizing teams can be solved by having a leader.
-
-If you are in meetings, your team is missing the tech lead. If you are in code, business is missing the tech lead.
-
-Help the team to figure out what work not to do.
-
-Make the team feel successful.
-Bring positive energy. Stir things up to ask questions, make everyone have a fair say.
-
-Prioritizatoin and decision making is hard so do it when you're fresh in the morning.
-
-Not responsible for being the best coder but for making sure everyone does their best.
-Will no longer the best coder because you do not code as much.
-
-Encourage the team to use socratic questioning before letting them presenting the idea
+* Encourage the team to use socratic questioning before letting them presenting the idea
 
 ## PEOPLE
 
@@ -237,3 +229,10 @@ Ask for help to share responsibility and foster leadership.
 * General principles of system design
 * Anyting by Weinberg
 * https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Addison-Wesley-ebook/dp/B007MQLL4E
+
+## Log
+
+* since last: dumped everything I highlighted in the book to this file.
+* next: go through all notes, remove duplicates and group similar notes together.
+* went through the NOVICES section and categorized things
+* next: continue with the next section
