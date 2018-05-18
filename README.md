@@ -229,6 +229,7 @@ Ask for help to share responsibility and foster leadership.
 * General principles of system design
 * Anyting by Weinberg
 * https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Addison-Wesley-ebook/dp/B007MQLL4E
+* Thinking in Systems: A Primer https://www.amazon.com/dp/B005VSRFEA
 
 ## Log
 
