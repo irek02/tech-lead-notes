@@ -32,8 +32,11 @@ Big picture / System thinking / Future state / Vision / Architecture / Matching 
 * Be concerned if a choice makes it difficult to change the system tomorrow. Make others aware of it.
 * Understand requirements and constraints, design high-level architecture, then evolve it over time.
 * Understand the difference between short-term and long-term decisions.
+* Work backwards from the delivery date and initial vision.
 * Steer technical vision and arch changes
 * Step back to see if the project stil heading in the right dierection.
+
+* Work with the business to understand how much work can be done and help prioritize.
 
 Motivate / Lead / Enable success
 
@@ -54,6 +57,9 @@ Motivate / Lead / Enable success
 * Both goal-oriented and people-oriented.
 * Keeping an eye on each developer and what's coming up in the team.
 * Mentor, better communicate ideas, make the most of each developer
+* Do not enforce idead but steer in the right direction loosely.
+* Choose the task that will unblock others rather than the task that you want to work on.
+* Look out for code smells, anti-patterns, maintainability issues and let the team take ownership in resolving them.
 
 Delegation / Less coding
 
@@ -64,6 +70,8 @@ Delegation / Less coding
 * Whenever possible - delegate.
 * Delegating and communication is essential.
 * Delegated decisions are satisfiable more often than you think.
+
+* After technology there are two other main areas to ensure success: people and process.
 
 Other
 
@@ -82,18 +90,6 @@ Other
 
 Develop soft skills.
 Learn nonviolent comminucation.
-
-Focus on the path to production. Work backwards from the delivery date and initial vision.
-
-Work with the business to understand how much work can be done and help prioritize.
-
-Do not enforce idead but steer in the right direction loosely.
-
-Choose the task that will unblock others rather than the task that you want to work on.
-
-Look out for code smells, anti-patterns, maintainability issues and let the team take ownership in resolving them.
-
-After technology there are two other main areas to ensure success: people and process.
 
 Achieve optimal outcome by balancing cost and value.
 
@@ -230,6 +226,7 @@ Ask for help to share responsibility and foster leadership.
 * Anyting by Weinberg
 * https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Addison-Wesley-ebook/dp/B007MQLL4E
 * Thinking in Systems: A Primer https://www.amazon.com/dp/B005VSRFEA
+* https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB
 
 ## Log
 
