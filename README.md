@@ -12,35 +12,32 @@ Cons:
 
 ## What desribes a tech lead
 
-## NOVICES
+## Categories
 
-Business / goals
+Business / Goals / Communication
 
 * Ensure the code addresses business needs.
 * Liaise with the BA (bis analyst) to ensure the team is aligned with the product vision and business direction.
-* Align people towards the goal. Otherwise it is just a group of people, not a team.
 * Evaluate effort/time investment towards business vision.
 * Achieve optimal outcome by balancing cost and value.
-* In the daily grind, frequently revisit the priority list to ensure you are not creating waste.
 * Keep three todo lists: today, near-term, long-term.
-* Learn to work under pressure. Slipping on the discipline is unprofessional and will be costly.
-* Make personal connections for more effective work.
-* Expose risks to external steakholders and lobby for resources to address them.
-* Never make any assumptions.
-* Learn Mikago method. Explain things to managemtn by drawing dependency diagrams.
-* Ensure that the delivered change also delivers value which is to prevent developers exporing their own interests.
-* Document assumptions.
-* Spending time on software quality without ultimately benefiting the customer is a waste.
-* Learn to communicate with non-technical people. Use diagrams, whiteboard, metaphors, simple language without acronyms and tech terms.
-* Do not over commit without without the teams involvement.
-* Find balance in delivery pace and code quality to satisfy both the team and the business.
-* Help the project from the business and technical perspective but never spend 100% of time in only one area for too long.
-* When disagreeing with something, understand whether it jeapardizes the project or just a personal preference.
-* Ensure the team nonfunctional goals (test coverage, use of specific technology) are in line with business (end user) requirements.
-* Remain non-emotional. Make decision after you heard everyone and stick to it. However, let other have a victory once in a while.
-* Make everything visible. Use personal kanban.
-* Learn to find solutions to ill defined problems.
 * Learn to manage priorities from multiple steakholders and the team.
+* Learn to work under pressure. Slipping on the discipline is unprofessional and will be costly.
+* Do not over commit without without the teams involvement.
+* When disagreeing with something, understand whether it jeapardizes the project or just a personal preference.
+* Remain non-emotional. Make decision after you heard everyone and stick to it. However, let other have a victory once in a while.
+* Make personal connections for more effective work.
+* Learn to communicate with non-technical people. Use diagrams, whiteboard, metaphors, simple language without acronyms and tech terms.
+* Expose risks to external steakholders and lobby for resources to address them.
+* Find balance in delivery pace and code quality to satisfy both the team and the business.
+* Ensure the team nonfunctional goals (test coverage, use of specific technology) are in line with business (end user) requirements.
+* Never make any assumptions. If you do, then document it.
+* Learn Mikago method. Explain things to managemtn by drawing dependency diagrams.
+* Ensure that the delivered change also delivers value.
+* Spending time on software quality without ultimately benefiting the customer is waste.
+* Help the project from the business and technical perspective but never spend 100% of time in only one area for too long.
+* Make everything visible.
+* Learn to find solutions to ill-defined problems.
 
 Big picture / System thinking / Future state / Vision / Architecture / Matching requirements / Non-functional reqs
 
@@ -61,7 +58,6 @@ Big picture / System thinking / Future state / Vision / Architecture / Matching 
 * Work with the team to specify shapes, patterns, innder structure, logic and then work with the team implementing it.
 * Recognize the root cause and not be distracted by symptoms.
 * Learn about cross-functional (non-functional) requirements.
-
 * Work with the business to understand how much work can be done and help prioritize.
 
 Motivate / Lead / Enable success
@@ -105,6 +101,7 @@ Motivate / Lead / Enable success
 * Do not focus on leading too much. Be the enabler. Facilitate learning environment. Seek to understand.
 * Seek for others in the team to become greater than you.
 * Ask for help to share responsibility and foster leadership.
+* Align people towards the goal. Otherwise it is just a group of people, not a team.
 
 Delegation / Less coding
 
@@ -120,7 +117,6 @@ Delegation / Less coding
 * Encourage developers to own the whole process: from capturing reqs through to the delivery and ops.
 * You do not need to be the person with deepest technical skill. Delegate.
 * Do not keep all the most important work/decisions to yourself as it will make you a bottleneck and will make others feel undervalued. Deleagate.
-
 * After technology there are two other main areas to ensure success: people and process.
 
 Other
