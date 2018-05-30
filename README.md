@@ -1,5 +1,7 @@
 # Tech Lead notes
 
+todo: note that this is a collection of ideas from the tech lead book
+
 ## Overview
 
 Definition:
@@ -14,53 +16,44 @@ Cons:
 
 ## Categories
 
-Business / Goals / Communication
+### Business / Goals / Communication
 
 * Ensure the code addresses business needs.
-* Liaise with the BA (bis analyst) to ensure the team is aligned with the product vision and business direction.
-* Evaluate effort/time investment towards business vision.
-* Achieve optimal outcome by balancing cost and value.
-* Keep three todo lists: today, near-term, long-term.
+* Ensure the team is aligned with the product vision and business direction.
+* Ensure that the delivered change also delivers value.
+* Work backwards from the delivery date and initial vision.
+* Work with the business to understand how much work can be done and help prioritize.
 * Learn to manage priorities from multiple steakholders and the team.
 * Learn to work under pressure. Slipping on the discipline is unprofessional and will be costly.
-* Do not over commit without without the teams involvement.
+* Learn to find solutions to ill-defined problems.
+* Do not over commit without the teams involvement.
 * When disagreeing with something, understand whether it jeapardizes the project or just a personal preference.
-* Remain non-emotional. Make decision after you heard everyone and stick to it. However, let other have a victory once in a while.
+* Remain non-emotional. Make decisions after you heard everyone and stick to it. However, let others have a victory once in a while.
 * Make personal connections for more effective work.
 * Learn to communicate with non-technical people. Use diagrams, whiteboard, metaphors, simple language without acronyms and tech terms.
+* Explain things to managemtn by drawing dependency diagrams.
 * Expose risks to external steakholders and lobby for resources to address them.
-* Find balance in delivery pace and code quality to satisfy both the team and the business.
-* Ensure the team nonfunctional goals (test coverage, use of specific technology) are in line with business (end user) requirements.
-* Never make any assumptions. If you do, then document it.
-* Learn Mikago method. Explain things to managemtn by drawing dependency diagrams.
-* Ensure that the delivered change also delivers value.
+* Ensure the team's nonfunctional goals (test coverage, use of specific technology) are in line with business (end user) requirements.
 * Spending time on software quality without ultimately benefiting the customer is waste.
-* Help the project from the business and technical perspective but never spend 100% of time in only one area for too long.
+* Never make any assumptions. If you do, then document it.
 * Make everything visible.
-* Learn to find solutions to ill-defined problems.
+* Achieve optimal outcome by balancing cost and value.
+* Keep three todo lists: today, near-term, long-term.
 
-Big picture / System thinking / Future state / Vision / Architecture / Matching requirements / Non-functional reqs
+### Big picture / System thinking / Future state / Vision / Architecture / Matching requirements / Non-functional reqs
 
-* Focus on the overall vision.
-* Understand the big picture.
+* Focus on the overall vision, understand the big picture.
 * Consider how the application fits into the whole ecosystem.
-* Evaluate decisions with a long-term view.
-* Consider fearutes impact on the overall system. Does it make it hard to add features tomorrow?
-* Look at the consequences that a choice has on others and future work/rework.
-* Be concerned if a choice makes it difficult to change the system tomorrow. Make others aware of it.
-* Understand requirements and constraints, design high-level architecture, then evolve it over time.
-* Understand the difference between short-term and long-term decisions.
-* Work backwards from the delivery date and initial vision.
-* Steer technical vision and arch changes
-* Step back to see if the project still heading in the right dierection.
-* Shape the overall solution that meets all requirements.
-* Understand the layered architecture, hexagonal architecture, DDD, the Connascence and how to remove it.
-* Work with the team to specify shapes, patterns, innder structure, logic and then work with the team implementing it.
-* Recognize the root cause and not be distracted by symptoms.
+* Evaluate decisions with a long-term view: Consider a fearute's impact on the overall system. Does it make it hard to add features tomorrow? Make others aware.
+* Understand requirements and constraints, design high-level architecture, then evolve it over time. Work with the team to specify shapes, patterns, inner structure, logic and then work with the team implementing it.
 * Learn about cross-functional (non-functional) requirements.
-* Work with the business to understand how much work can be done and help prioritize.
+* Shape the overall solution that meets all requirements.
+* Steer technical vision and arch changes
+* Step back to see if the project still heading in the right direction.
+* Understand the layered architecture, hexagonal architecture, DDD, the Connascence and how to remove it.
+* Recognize the root cause and not be distracted by symptoms.
 
-Motivate / Lead / Enable success
+### Motivate / Lead / Enable success
 
 * Facilitate tech discussions.
 * Lead in good design and architecture.
@@ -103,7 +96,7 @@ Motivate / Lead / Enable success
 * Ask for help to share responsibility and foster leadership.
 * Align people towards the goal. Otherwise it is just a group of people, not a team.
 
-Delegation / Less coding
+### Delegation / Less coding
 
 * They spend less time coding. Often, someone else has to finish their work due to distractions.
 * You will no longer have luxury of diving into technical challenges without interruptions.
@@ -119,7 +112,7 @@ Delegation / Less coding
 * Do not keep all the most important work/decisions to yourself as it will make you a bottleneck and will make others feel undervalued. Deleagate.
 * After technology there are two other main areas to ensure success: people and process.
 
-Other
+### Other
 
 * They often concerned more about code maintainability than saving few CPU/Memory resources with tricky optimizations.
 * Ensure that others can understand the solution when reviewing code.
@@ -177,3 +170,6 @@ Majority of issues are communication related.
 * next: continue with the next section
 * categorised most points
 * next: finish categorizing
+* worked through the first and seconf sections
+* next: finish sorting the second section
+*
